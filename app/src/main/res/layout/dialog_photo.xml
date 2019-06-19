@@ -1,0 +1,13 @@
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+<ImageView
+        android:id="@+id/crime_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerInside"
+        android:adjustViewBounds="true"
+
+        android:background="@android:color/darker_gray"/>
+</FrameLayout>
